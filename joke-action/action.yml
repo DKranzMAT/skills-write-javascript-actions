@@ -1,0 +1,5 @@
+name: "Joke Action"
+description: "Demo JS action"
+runs:
+  using: "node20"
+  main: "index.js"
